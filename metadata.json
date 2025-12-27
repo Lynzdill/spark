@@ -1,0 +1,8 @@
+{
+  "name": "Copy of SparkAI - The Future of Dating",
+  "description": "An AI-powered dating platform featuring smart matchmaking, an AI dating coach for mock dates and advice, and a premium member ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

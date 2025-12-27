@@ -1,5 +1,5 @@
 
-export type View = 'landing' | 'dashboard' | 'matchmaking' | 'ai-coach' | 'profile' | 'messages';
+export type View = 'landing' | 'dashboard' | 'matchmaking' | 'ai-coach' | 'profile' | 'messages' | 'admin';
 
 export interface UserProfile {
   id: string;
